@@ -1,2 +1,4 @@
 hello this is first text file.
 changes will reflect on repository.
+
+understanding .git folder
